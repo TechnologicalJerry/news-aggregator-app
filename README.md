@@ -1,1 +1,1 @@
-# weather-app
+# news-aggregator-app
